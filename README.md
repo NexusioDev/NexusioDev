@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi there, I'm Nexusio (a Dev)
 
-<!--
-**NexusioDev/NexusioDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+{
+  "age": 15,
+  "gender": "male",
+  "crypto": ["Solana", "XRP"]
+}
+```
+---
 
-Here are some ideas to get you started:
+## 🛠️ Coding Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=c%2B%2B)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
+![C#](https://img.shields.io/badge/C%23-purple?style=for-the-badge&logo=dotnet)
+
+---
+
+## 🌐 Languages
+
+![German](https://img.shields.io/badge/German-native-green?style=for-the-badge)
+![English](https://img.shields.io/badge/English-fluent-blue?style=for-the-badge)
+![Japanese](https://img.shields.io/badge/Japanese-learning-red?style=for-the-badge)
+
+---
+
+## 💻 Hardware
+
+* 🖥️ **OS:** Windows 11
+* ⚙️ **CPU:** Intel i7-12700KF
+* 🎮 **GPU:** Nvidia RTX 3050
+* 🧠 **RAM:** 16GB
+* 🎯 **VRAM:** 8GB
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=NexusioDev\&show_icons=true\&theme=tokyonight)
