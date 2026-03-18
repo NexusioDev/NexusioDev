@@ -27,11 +27,11 @@
 
 ## 💻 Hardware
 
-* 🖥️ **OS:** Windows 11
-* ⚙️ **CPU:** Intel i7-12700KF
-* 🎮 **GPU:** Nvidia RTX 3050
-* 🧠 **RAM:** 16GB
-* 🎯 **VRAM:** 8GB
+*  **OS:** Windows 11
+*  **CPU:** Intel i7-12700KF
+*  **GPU:** Nvidia RTX 3050
+*  **RAM:** 16GB
+*  **VRAM:** 8GB
 
 ---
 
