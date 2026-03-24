@@ -4,7 +4,8 @@
 {
   "age": 15,
   "gender": "male",
-  "crypto": ["Solana", "XRP"]
+  "crypto": ["Solana", "XRP"],
+  "ide": ["Clion", "Visual Studio Code"]
 }
 ```
 ---
